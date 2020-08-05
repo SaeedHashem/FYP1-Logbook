@@ -35,9 +35,9 @@ The technologies used to build the project will be as follows
 
 * Docker
 To configure and build the environment of the simulated training scenarios.
-*Django Framework
+* Django Framework
 Python-based web framework to create the web application to interact with the training scenarios.
-Vagrant:
+* Vagrant
 To configure and build the virtual machine that will package both the training scenarios and the web application.
 
 
